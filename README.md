@@ -1,4 +1,4 @@
-# Ethical AI Bias Detection (FAANG-Level Project)
+# Ethical AI Bias Detection
 
 ## Problem Statement
 Machine learning models can unintentionally introduce bias, leading to unfair outcomes across demographic groups. This project detects, measures, and mitigates bias using Responsible AI techniques.
